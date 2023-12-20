@@ -2,15 +2,14 @@ package de.unibremen.swp.karteikartenapp.logic;
 
 import de.unibremen.swp.karteikartenapp.model.Sprache;
 import de.unibremen.swp.karteikartenapp.persistence.SpracheRepository;
-
+import all;
 /**
  * Klasse, welche sich um das Verwalten der Sprache in der Persistenz kümmert
  */
-public class SpracheLogic {
+public class SpracheLogik {
     /**
-     * Das Repo-Objekt für die Sprache
+     * Das Repo-Objekt für die Sprache und so.
      */
-    private SpracheRepository sp;
 
     /**
      * Konstruktor der Sprache-Logik
