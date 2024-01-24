@@ -8,7 +8,7 @@ import all;
  */
 public class SpracheLogik {
     /**
-     * Das Repo-Objekt für die Sprache und so.
+
      */
 
     /**
@@ -22,7 +22,7 @@ public class SpracheLogik {
             sp.init("Deutsch");
         }
     }
-
+//Hier muss noch was geändert werden.
     /**
      * Setzt die Sprache in der Datenbank
      * @param sprache die neue Sprache
